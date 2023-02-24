@@ -1,7 +1,7 @@
 # 💫About Me :
-- Acoustics Engineer working as Python Back-End Developer.
+- Software Developer working currently as Data Engineer.
 - 👯 I'm looking to collaborate on AI on audio or speech.
-- 🌱 I'm currently learning Software Archictecture.
+- 🌱 I'm currently learning Big Data.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drummondalexandre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alexandre-drummond-58283b148) 
