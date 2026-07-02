@@ -1,7 +1,7 @@
 # 💫About Me :
-- Software Developer working currently on Embedded Systems.
-- 👯 I'm looking to collaborate on projects using C/C++ and Python (Javascript and Go are also possibilities).
-- 🌱 I'm currently studying Digital Signal Processing.
+- Embedded Software Developer .
+- 👯 I'm looking to collaborate on projects using C/C++, Python and Rust.
+- 🌱 I'm currently studying Algorithms.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drummondalexandre) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alexandre-drummond-58283b148) 
